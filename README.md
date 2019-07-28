@@ -1,5 +1,5 @@
-Durchschnittsalter und Frauenanteil im österreichischen Nationalrat
-der GP I. bis XXV.
+<h1>Durchschnittsalter und Frauenanteil im österreichischen Nationalrat</h1>
+  <h2>der GP I. bis XXV.</h2>
 
 - In 'alle Abg 20190727.txt' findet sich die Auflistung aller Abgeordneten zum österreichischen Nationalrat seit der I. GP 
 
