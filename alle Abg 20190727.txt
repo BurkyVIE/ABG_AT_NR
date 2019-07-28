@@ -1,0 +1,1862 @@
+PAD; Name
+03612; Ablinger Sonja 
+13649; Abraham Gerhard 
+02003; Abram Simon 
+00041; Achatz Anna Elisabeth 
+14854; Achleitner Elke, Dipl.-Ing. 
+00577; Achs Matthias 
+00010; Adler Friedrich, Dr. 
+00014; Adlersflügel Mathias 
+00022; Afritsch Josef 
+00023; Aichhorn Karl 
+00028; Aigner Edmund 
+00031; Aigner Josef, Dr. 
+00035; Alberer Alois 
+00046; Albrecht Anneliese 
+00051; Allina Heinrich 
+83119; Alm Nikolaus, Mag. 
+00043; Altenbacher Franz 
+00044; Altenburger Erwin 
+00047; Aman Sepp 
+51879; Amesbauer Hannes, BA 
+00049; Amlacher Michael 
+02819; Amon Werner, MBA 
+00016; Amtmann Heinrich, Ing. 
+00018; Androsch Hannes, Dipl.-Kfm. Dr. 
+73000; Androsch Maurice, Ing. 
+84060; Angerer Erwin 
+00020; Angerer Hans, Dr. 
+00024; Anschober Rudolf 
+00027; Antoni Dieter, Dr. 
+83107; Antoni Konrad 
+00030; Apfelbeck Ute 
+00032; Appel Karl, Dr. 
+00033; Appel Rudolf 
+00036; Arthold Josef 
+83105; Aslan Aygül Berivan, Mag. 
+00037; Aßmann Alwin 
+08375; Aspöck Robert, Dr. 
+00038; Astl Johann 
+35467; Aubauer Gertrude, Mag. 
+00039; Auer Jakob 
+51507; Auer Josef, Mag. 
+14733; Auer Klaus Hubert, Dipl.-Ing. 
+00040; Auinger Johann 
+00042; Austerlitz Friedrich 
+00052; Babanitz Franz 
+00053; Babitsch Leopold, Dipl.-Ing. 
+83108; Bacher Walter 
+00057; Bandion Karl 
+00059; Barmüller Thomas, Mag. 
+00060; Bartenstein Martin, Dr. 
+00061; Bassetti Luis, Dipl.-Kfm. Dr. 
+00064; Bauer Alois 
+00065; Bauer Franz 
+00067; Bauer Franz 
+00066; Bauer Franz, Dr. 
+08183; Bauer Gerhard, Ing. 
+00076; Bauer Hannes, Dipl.-Kfm. Dr. 
+00074; Bauer Holger, Dipl.-Kfm. 
+00078; Bauer Otto, Dr. 
+00080; Bauer Rosemarie 
+00081; Bauer Sophie 
+00083; Baumgärtel Emil 
+01974; Baumgartner Angela 
+08208; Baumgartner-Gabitzer Ulrike, Dr. 
+00172; Bayer Johanna, Dipl.-Ing. Dr. 
+00086; Bayr Anton 
+14835; Bayr Petra, MA MLS 
+14836; Becher Ruth, Mag. 
+00174; Bechinie Robert, Dipl.-Kfm. Dr. 
+35468; Belakowitsch Dagmar, Dr. 
+00092; Benya Anton 
+00099; Berger Johann 
+02996; Berger Ricarda 
+00101; Bergmann Kurt 
+00102; Bergsmann Felix 
+00103; Berl Franz, Dipl.-Ing. 
+52688; Berlakovich Nikolaus, Dipl.-Ing. 
+83124; Bernhard Michael 
+00111; Bichl Felix 
+00112; Bichler Karl 
+00116; Binder Franz 
+00118; Binder-Maier Gabriele 
+00119; Birbaumer Franz 
+00124; Bisjak Paul 
+02349; Bißmann Martha, Dipl.-Ing. (FH) 
+12928; Blasisker Josef 
+00127; Blecha Karl 
+14855; Bleckmann Magda, Mag. Dr. 
+00128; Blenk Wolfgang, Dr. 
+00130; Bleyer Wilhelm 
+00133; Blöchl Johann 
+00134; Blümel Johann 
+00136; Blünegger Anton 
+00138; Bock Fritz, Dr. 
+00144; Böck-Greissau Josef 
+00146; Bögl Hans 
+01975; Bogner-Strauß Juliane, Mag. Dr. 
+00125; Böhacker Hermann 
+00148; Böhler Georg 
+14753; Böhm Franz Xaver 
+00149; Böhm Johann 
+08875; Böhmdorfer Dieter, Dr. 
+00151; Bösch Herbert, Mag. 
+00152; Bösch Karl 
+02867; Bösch Reinhard Eugen, Dr. 
+00155; Boschek Anna 
+00157; Brachmann Hans 
+02820; Brader Alfred, Mag. Dr. 
+00164; Brandl Franz 
+00167; Brandstätter Jakob 
+05438; Brandweiner Lukas 
+00168; Braun Helmut 
+02833; Brauneder Willi, MMag. Dr. 
+00169; Brauneis Walter 
+00171; Bregartner Karl 
+00069; Breiteneder Johann 
+00071; Brennsteiner Anton 
+00072; Bretschneider Ludwig August 
+00075; Brinek Gertrude, Dr. 
+00077; Brinnich Franz 
+02813; Brix Otmar 
+00079; Broda Christian, Dr. 
+00085; Broesigke Tassilo, Dr. 
+08239; Brosz Dieter, MSc 
+14837; Broukal Josef 
+61639; Brückl Hermann, MA 
+00087; Bruckmann Gerhart, Dr. 
+08735; Brugger Bernd 
+51586; Brunner Christiane, Mag. 
+00176; Brunner Franz 
+00110; Brunner Karl 
+00113; Brunner Wanda 
+00090; Brünner Christian, Dr. 
+00117; Buchberger Adalbert, Dipl.-Ing. Dr. 
+14856; Bucher Josef 
+00122; Buchinger Rudolf 
+00129; Buchleitner Johann 
+63179; Buchmayr Harry 
+00135; Buchner Josef 
+00139; Buder Hannelore 
+00145; Bures Doris 
+00147; Buresch Karl, Dr. 
+00156; Burger Siegmund 
+01951; Burgmann Rudolf 
+00158; Burgstaller Alois 
+00162; Burgstaller Paul 
+08795; Burket Ilse 
+00170; Busek Erhard, Dr. 
+00173; Buttinger Johann 
+00178; Cap Josef, Dr. 
+00180; Cerny Theodor 
+00181; Chaloupek Ferdinand 
+00183; Clessin Heinrich, abs. iur. 
+51551; Cortolezis-Schlager Katharina, Mag. 
+02340; Cox Stephanie, BA 
+11957; Csörgits Renate 
+00185; Czernetz Karl 
+00186; Czernin Ottokar 
+00187; Czerny Anna 
+00189; Czettel Adolf 
+00190; Czettel Hans 
+00191; Dallinger Alfred 
+00194; Danneberg Robert, Dr. 
+22030; Darabos Norbert, Mag. 
+35469; Darmann Gernot, Mag. 
+51557; Deimek Gerhard, Dipl.-Ing. 
+00200; Dengler Josef 
+00202; Derfler Alois, Ing. 
+21251; Dernoscheg Karl-Heinz, Dr., MBA 
+00205; Dersch Mathias 
+00207; Deutsch Josef 
+00208; Deutsch Julius, Dr. 
+00210; Deutschmann Valentin 
+00212; Dewaty Hubert 
+16218; Diesner-Wais Martina 
+00215; Dietachmayr Helmut 
+00216; Dietrich Dominikus 
+00217; Dietrich Günter 
+83140; Dietrich Waltraud, Ing. 
+00218; Dillersberger Siegfried, Dr. 
+05406; Dim Thomas 
+00219; Dinghofer Franz, Dr. 
+00222; Dinkhauser Josef 
+00224; Dittrich Karl, Ing. 
+00225; Ditz Johannes, Dr. 
+00226; Diwald Leopold 
+00227; Dobesberger Edith 
+08175; Dobnigg Karl 
+02772; Dohnal Johanna 
+00231; Dolinschek Sigisbert 
+00232; Domes Franz 
+02821; Donabauer Karl 
+47067; Dönmez Efgani, PMM 
+11955; Donnerbauer Heribert, Mag. 
+91141; Doppelbauer Karin, Dipl.-Ing. 
+21211; Doppler Anton 
+00234; Doppler Leopold 
+51558; Doppler Rupert 
+00235; Dostal Hubert, Dr. 
+00236; Draxler Hans 
+00237; Drescher Martin 
+00239; Drexel Karl, DDr. 
+88629; Drozda Thomas, Mag. 
+00242; Duda Adolf 
+00243; Duld Matthias 
+02890; Dunst Verena 
+40627; Durchschlag Claudia 
+00247; Duscher Matthias 
+60446; Duzdar Muna, Mag. 
+00251; Dworak Franz 
+00193; Ebenbichler Gerhard 
+00209; Eberhard Sepp 
+00213; Ebner Anton 
+00221; Ebner Hans 
+83109; Ecker Cornelia 
+00228; Eckhart Leopold 
+00238; Eder Kurt 
+35470; Eder Sebastian, Dr. 
+00240; Ederer Brigitte, Mag. 
+35471; Eder-Gitschthaler Andrea, Dr. 
+83118; Eder-Lindner Astrid Monika, Dr. 
+00244; Edler Josef 
+04475; Edlinger Rudolf 
+00249; Edlinger Wolfgang 
+00250; Egg Herbert 
+01943; Egger Bernhard 
+08185; Egghart Robert 
+00254; Ehgartner Hans 
+36508; Ehmann Michael 
+00255; Ehrenfried Anton 
+00256; Eibegger Max 
+00259; Eichinger Johann 
+00263; Eichinger Karl 
+00282; Eigruber Hermann 
+02873; Einem Caspar, Dr. 
+24257; Einwallner Reinhold, Ing. 
+30035; Einwallner Thomas 
+00321; Eisenhut Josef 
+36348; Eisenschenk Peter, Mag. 
+00286; Eisler Arnold, Dr. 
+83144; El Habbassi Asdin, BA 
+00289; Eldersch Matthias 
+00291; Ellenbogen Wilhelm, Dr. 
+00301; Ellend Bernhard 
+00303; Ellmauer Matthias 
+00306; Ellmerer Hans 
+00307; Elmecker Robert 
+00309; Elser Viktor 
+00260; Elshuber August 
+00264; Emhart Maria 
+00267; Enge Franz 
+01976; Engelberg Martin, Mag. 
+00268; Enser Maria 
+00269; Entner Richard 
+30653; Erasim Melanie, MSc 
+00273; Erlinger Helga 
+00274; Ermacora Felix, Dr. 
+00275; Ertl Ferdinand 
+00276; Ertl Franz 
+83433; Ertlschweiger Rouven, MSc 
+14755; Eßl Franz Leonhard 
+00281; Ettmayer Wendelin, Dr. 
+00284; Exler Rudolf 
+00287; Eypeltauer Beatrix, Dr. 
+00293; Fachleutner Karl 
+00294; Fageth Ferdinand 
+00296; Fahrner Anton 
+00297; Falger Nikolaus 
+00298; Falle Anton 
+08186; Fallent Gerhard, Ing. 
+00302; Fasslabend Werner, Dr. 
+00304; Fast Franziska 
+08176; Faul Christian 
+00305; Fauland Adolf 
+22534; Fauland Markus 
+36450; Faymann Werner 
+35493; Fazekas Hannes 
+02189; Feichtinger Elisabeth, BEd BEd 
+83298; Feichtinger Klaus Uwe, Mag. Dr. 
+00311; Fekter Maria Theresia, Mag. Dr. 
+15530; Felzmann Carina 
+03130; Ferrero-Waldner Benita, Dr. 
+00318; Fertl Rudolf, Dr. 
+00319; Feurstein Gottfried, Dr. 
+35517; Fichtenbauer Peter, Dr. 
+83146; Fichtinger Angela 
+00324; Fiedler Kurt, Dipl.-Kfm. Dr. 
+00326; Figl Leopold, Dipl.-Ing. DDDr. h.c. 
+00327; Fink Ernst 
+00328; Fink Jodok, Dr. h.c. 
+00329; Fink Josef, Dr. 
+00330; Fink Pius, Dipl.-Ing. 
+08676; Finz Alfred, Dr. 
+02857; Firlinger Reinhard, Mag. 
+00290; Firnberg Hertha, Dr. Dr. h.c. 
+00331; Fischer Christian 
+00333; Fischer Ernst 
+00334; Fischer Heinz, Dr. 
+00335; Fischer Hermann 
+00336; Fischer Leopold 
+00338; Fischer Rudolf Heinz, Ing. 
+00339; Fischl Harald 
+00340; Fischler Franz, Dipl.-Ing. Dr. 
+00342; Fister Alfred 
+13125; Fleckl Anita 
+00347; Fleischmann Franz, Dr. 
+00292; Flemming Marilies, Dr. 
+00363; Flicker Franz, Dipl.-Ing. 
+00365; Flossmann Ferdinanda 
+00364; Flöttl Karl 
+00366; Födermayr Florian 
+00367; Fohringer Josef 
+00368; Foppa Hermann 
+00371; Forsthuber Rudolf 
+00373; Forstner August 
+00285; Frank Felix, Dr. 
+14756; Franz Anna 
+00377; Franz Georg 
+83141; Franz Marcus, Dr. 
+00383; Franzmair Josef 
+00386; Frauscher Helmut, Dipl.-Kfm. Dr. 
+10613; Freigaßner Evelyn 
+00389; Freund Karl 
+00390; Freund Richard 
+00392; Freundlich Emmy 
+00394; Friedl Karl 
+02347; Friedl Klaudia 
+00398; Frieser Cordula, Mag. 
+00400; Frisch Anton 
+00401; Frischenschlager Friedhelm, Dr. 
+00402; Fritz Hermann 
+00404; Frizberg Gilbert, Dr. 
+00405; Frodl Karl 
+00407; Frömel Emmerich 
+00414; Frühbauer Erwin 
+00415; Frühwirth Josef, Dipl.-Ing. Dr. 
+00416; Frühwirth Michael 
+02814; Fuchs Brunhilde 
+00420; Fuchs Hans Georg, Dipl.-Ing. 
+83127; Fuchs Hubert, MMag. DDr. 
+00421; Fuchs Luis 
+00424; Fuhrmann Willi, Dr. 
+35498; Füller Christian 
+72999; Fürlinger Klaus, Mag. 
+00426; Furreg Lotte 
+01567; Fürst Susanne, Dr. 
+00427; Fux Franz 
+00428; Fux Herbert 
+00343; Gaál Anton 
+00346; Gabriel Josef 
+00348; Gabriele Franz 
+08209; Gahr Hermann 
+00349; Gaigg Gerfrid, Dr. 
+00351; Gaiswinkler Albrecht 
+86976; Gamon Claudia, MSc (WU) 
+00353; Gangl Michael 
+00357; Gartlehner Kurt, Ing. 
+00358; Gärtner Heinz 
+04615; Gaßner Kurt, Mag. 
+00359; Gasperschitz Alfred, Dr. 
+00360; Gasselich Anton, Dr. 
+00361; Gasser Hans, Dipl.-Ing. 
+00362; Gassner Johann, Ing. 
+00369; Gassner Martin 
+00370; Gatterer Edeltraud 
+04535; Gaugg Reinhart 
+00374; Gebert Richard 
+03131; Gehrer Elisabeth 
+00375; Geiger Leo 
+00378; Geischläger Robert, Dr. 
+00379; Geisler Simon 
+00380; Geißler Hermann, Dr. 
+00381; Geißlinger Ferdinand 
+00382; Genner Laurenz 
+67199; Gerstl Wolfgang, Mag. 
+01969; Gerstner Peter 
+01945; Geßl Josef 
+51527; Gessl-Ranftl Andrea 
+00388; Geyer Hermann 
+00391; Geyer Walter, Mag. 
+02851; Gföhler Willibald, Mag. 
+00396; Gföller Karl 
+00393; Gföllner Alois 
+00399; Giegerl Johann 
+00403; Gierlinger Balthasar 
+00408; Gimpl Georg, Dr. 
+00409; Gindler Anton 
+00411; Gisel Alfred, Dr. 
+14758; Glaser Franz 
+00410; Glaser Karl 
+08240; Glawischnig-Piesczek Eva, Dr. 
+00412; Glöckel Otto 
+00417; Gmoser Rupert, DDr. 
+83409; Gödl Ernst, Mag. 
+00434; Gorbach Alfons, Dr. 
+00436; Gorton Wilhelm, Dipl.-Kfm. 
+00435; Gossi Alois 
+00431; Götz Alexander, Dipl.-Ing. DDr. 
+00437; Grabenhofer Gottlieb 
+00438; Grabher-Meyer Walter 
+00439; Grabner Arnold 
+00440; Grabner Heinz, Dipl.-Ing. 
+35502; Gradauer Alois 
+00441; Gradenegger Johannes, Dr. 
+00442; Gradinger Rudolf, Ing. 
+00443; Gradischnik Reimar, Dr. 
+00444; Gradwohl Heinz 
+00445; Graenitz Ilona, Dipl.-Kfm. 
+00446; Graf Ferdinand 
+00447; Graf Florian 
+08187; Graf Herbert L., Ing. 
+02834; Graf Martin, Mag. Dr. 
+00450; Graf Robert 
+00451; Graf Rudolf 
+01977; Graf Tanja 
+00452; Graff Michael, Dr. 
+00458; Grailer Iring, Dr. 
+00460; Gram Heribert 
+06755; Grander Maria 
+00463; Grandits Marijana, Mag. 
+00466; Gratz Leopold, Mag. 
+00471; Gratzer Bernhard 
+00473; Grebien Alois 
+02858; Gredler Martina, Dr. 
+00475; Gredler Willfried, Dr. 
+80479; Greiner Karin, Mag. 
+00479; Grießner Isidor 
+12907; Grillitsch Fritz 
+02342; Griss Irmgard, Dr. 
+00485; Gritschacher Josef 
+00487; Gröger Florian 
+83147; Groiß Werner, Ing. Mag. 
+02835; Grollitsch Udo, Mag. Dr. 
+01978; Großbauer Maria 
+00503; Größbauer Philipp 
+02964; Großruck Wolfgang 
+14839; Grossmann Elisabeth, Mag. 
+51574; Grosz Gerald 
+00519; Gruber Alois 
+00521; Gruber Hermann 
+00523; Gruber Josef 
+00525; Gruber Josef, Dr. 
+00535; Gruber Karl 
+00530; Gruber Karl, Dipl.-Ing. Dr. 
+00536; Gruber Michael 
+03445; Gruber Renate 
+00537; Gruber Rudolf 
+00538; Grubhofer Franz 
+01979; Grünberg Kira 
+14757; Grünberger Silvia, Mag. 
+00551; Grundemann-Falkenberg Ernst 
+08241; Grünewald Kurt, Dr. 
+00546; Grünsteidl Edmund, Dr. 
+00554; Gschnitzer Franz, Dr. 
+00557; Gschweidl Rudolf 
+18665; Gudenus Johann, Mag., M.A.I.S. 
+00623; Gudenus John, Mag. 
+00628; Gugerbauer Norbert, Dr. 
+00648; Guggenberger Leopold, abs. iur. 
+00640; Guggenberger Walter, Mag. 
+00656; Gumplmayer Hans 
+00624; Gürtler Alfred, Dr. 
+00626; Gürtler Johann 
+00662; Gurtner Rudolf 
+00663; Gusenbauer Alfred, Dr. 
+83110; Gusenbauer-Jäger Marianne 
+00664; Guth Ernst 
+00505; Haager Christine 
+00454; Haager Hans 
+00456; Haas Herbert 
+00457; Haberl Alfred 
+35507; Haberzettl Wilhelm 
+83120; Hable Rainer, Dr. 
+00464; Hackenberg Heinrich 
+59767; Hackl Heinz-Peter, Ing. 
+78586; Hafenecker Christian, MA 
+00470; Hafner Hans, Dr. 
+00474; Hafner Josef 
+08256; Hagen Christoph 
+00472; Hagenauer Johann 
+02009; Hagenhofer Marianne 
+00477; Hager Hanna 
+05483; Hager-Hämmerle Doris, Mag. 
+00478; Hagleitner Maria 
+00480; Hagspiel Ludwig 
+00483; Hahn Friedrich 
+36451; Hahn Johannes, Dr. 
+00486; Haiden Günter, Dipl.-Ing. 
+00488; Haider Franz 
+00489; Haider Johann, Dr. 
+00490; Haider Jörg, Dr. 
+51560; Haider Roman, Mag. 
+02852; Haidlmayr Theresia 
+00491; Haigermoser Helmut 
+35503; Haimbuchner Manfred, Mag. Dr. 
+00492; Hainzl Josef 
+10256; Hakel Elisabeth 
+08695; Hakl Karin, Mag. 
+00493; Halder Jakob, Dr. 
+00494; Haller Anton 
+00495; Haller Edith 
+55227; Hammer Michael, Mag. 
+00467; Hämmerle Rudolf, Dipl.-Ing. 
+01949; Hammerschmid Josef 
+88631; Hammerschmid Sonja, Mag. Dr. 
+01946; Hammerstorfer Hans 
+00497; Hampel Ernst, Dr. 
+00498; Handel Max 
+83148; Hanger Andreas, Mag. 
+00500; Hanreich Georg, Dipl.-Ing. 
+00501; Hans Josef 
+01947; Hanusch Ferdinand 
+00502; Hanzlik Hella 
+00506; Hareter Alexander 
+00508; Harrich Holda 
+08188; Hartinger-Klein Beate, Mag. 
+00511; Hartl Leopold 
+00513; Hartleb Karl 
+00514; Hartmann Eduard, Dipl.-Ing. 
+00515; Hartmann Josef 
+00518; Harwalik Adolf 
+02859; Haselsteiner Hans Peter, Dr. 
+00520; Haselwanter Ernst, Dr. 
+00522; Hasenauer Bartholomäus 
+00524; Hasler Sieghard, Ing. 
+00527; Hattmannsdorfer Johann 
+00528; Hatzl Johann 
+12741; Haubner Peter 
+02803; Haubner Ursula 
+00531; Haueis Alois 
+00532; Haunschmidt Franz 
+00533; Haupt Herbert, Mag. 
+35515; Hauser Gerald, Mag. 
+00534; Hauser Johann Nepomuk 
+00539; Hauser Walter, Dr. 
+00468; Häuser Rudolf, Ing. 
+00469; Häuslmayer Ferdinand, Dr. 
+00542; Hautmann Marie 
+00544; Hawlicek Hilde, Dr. 
+51547; Hechtl Johann 
+00547; Heigl Hans 
+00548; Heigl Josef 
+00552; Heindl Christine 
+00553; Heindl Kurt, Dr. 
+08177; Heinisch-Hosek Gabriele 
+00556; Heinl Eduard, Dr. h.c. 
+00560; Heinz Karl 
+00561; Heinz Roman 
+00563; Heinzinger Walter 
+05076; Heinzl Anton 
+00564; Heiß Regina 
+00565; Heitzinger Johann 
+00566; Helbich Leopold, Ing. 
+50187; Hell Johann 
+00569; Hellwagner Franz 
+00570; Helmer Oskar 
+47187; Herbert Werner 
+00572; Herke Hans 
+00573; Hermann Hermann 
+00579; Herzele Max 
+00581; Hesele Hans, DDr. 
+00583; Hesoun Josef 
+00582; Hessl Hermann 
+00584; Hetzenauer Franz, Dr. 
+10092; Hetzl Gerhard, Mag. 
+00585; Heuberger August 
+00586; Hieden-Sommer Helga, Dr. 
+00589; Hietl Franz 
+00591; Hillegeist Friedrich 
+72959; Himmelbauer Eva-Maria, BSc 
+00593; Hinterleithner Ignaz 
+00594; Hintermayer Josef 
+00595; Hinterndorfer Fritz 
+00597; Hirsch Ernst 
+00599; Hirscher Josef 
+00601; Hlavac Elisabeth, Dr. 
+51562; Höbart Christian, Ing. 
+02836; Höbinger-Lehrer Liane, Dr. 
+00602; Hobl Hans, Ing. 
+00606; Hochmair Fritz 
+00605; Hochsteiner Heinz, Dipl.-Kfm. 
+02296; Hochstetter-Lackner Irene 
+00608; Höchtl Josef, Mag. Dr. 
+00609; Höchtl Leopold 
+00619; Hofeneder Hubert, Dr. 
+00620; Hofer Franz, Dr. 
+00621; Hofer Hans 
+00627; Hofer Johann 
+35521; Hofer Norbert, Ing. 
+00629; Hoffmann Friedrich 
+83299; Hofinger Manfred, Ing. 
+16234; Höfinger Johann 
+00630; Hofmann Harald 
+02837; Hofmann Maximilian, Dipl.-Ing. 
+00634; Hofstetter Erich 
+00636; Hofstetter Karl, Ing. 
+00637; Hohenberg Karl 
+00616; Höll Johann 
+08855; Höllerer Anna 
+00638; Hollersbacher Josef 
+00639; Holoubek Karl 
+00642; Holzfeind Edmund 
+83111; Holzinger-Vogtenhuber Daniela, BA 
+00613; Hölzl Anton Franz 
+02309; Holzleitner Eva Maria, BSc 
+00645; Honner Franz 
+00646; Hopfer Sepp 
+00647; Horejs Karl 
+35489; Hörl Franz 
+00649; Horn Alfred 
+12247; Horn Josef 
+08189; Hornegger Franz 
+08210; Hornek Erwin 
+03591; Horngacher Katharina 
+00651; Horr Franz 
+00653; Horvatek Norbert 
+00654; Hosch Kaspar 
+08255; Hoscher Dietmar, Mag. 
+00655; Hosp Maria, Dr. 
+00657; Hostasch Eleonora 
+02343; Hoyos-Trauttmansdorff Douglas 
+35511; Hradecsni Bettina 
+00660; Hryntschak Alexander, Dr. 
+14759; Huainigg Franz-Joseph, Dr. 
+00661; Huber Alois 
+00668; Huber Anna 
+51575; Huber Gerhard 
+00670; Huber Hubert 
+00675; Hubinek Marga, Dr. 
+00676; Hubmann Georg 
+51561; Hübner Johannes, Dr. 
+00678; Hueber Anton 
+00679; Hueber Franz, Dr. 
+00680; Huemer Alois 
+00681; Huemer Oskar 
+00702; Hummer Josef 
+00703; Hums Franz 
+52689; Hundstorfer Rudolf 
+00705; Hurdes Felix, Dr. 
+42287; Hursky Christian 
+14760; Hütl Günther, Dipl.-Ing. 
+00713; Hutterer Klaus, Dipl.-Ing. Dr. 
+15181; Ikrath Peter Michael, Mag. 
+00718; Illmer Hans, Ing. 
+00719; Iro Jörg, Dr. 
+00721; Irsa Karl 
+01980; Jachs Johanna, Mag. 
+03592; Jäger Inge 
+00724; Janecek Johann 
+00725; Janicki Oskar 
+83149; Jank Brigitte 
+00726; Jankowitsch Peter, Dr. 
+51563; Jannach Harald 
+00727; Janschitz Robert 
+57367; Jarmer Helene, Mag. 
+02889; Jarolim Johannes, Dr. 
+01981; Jeitler-Cincelli Carmen, Mag., BA 
+62360; Jenewein Hans-Jörg, MA 
+00730; Jerzabek Anton, Dr. 
+00732; Jessner Max 
+00733; Jiricek Hans 
+00735; Jochmann Rosa 
+00737; Jonas Franz 
+00738; Josseck Helmuth, Dipl.-Vw. 
+03451; Jung Wolfgang 
+00743; Jungwirth Hans 
+51576; Jury Josef 
+00744; Jutz Michael 
+00751; Kabas Hilmar, Mag. 
+00752; Kabesch Erich 
+02998; Kainz Alois 
+14761; Kainz Christoph 
+00755; Kaipel Erwin, Ing. 
+00757; Kaiser Richard, Dipl.-Ing. 
+00760; Kammerhofer Johann 
+02855; Kammerlander Doris, Mag. 
+00761; Kampichler Franz 
+00763; Kampitsch Julius 
+00765; Kandutsch Jörg, Dr. 
+01970; Kaniak Gerhard, Mag. 
+00767; Kapaun Heinz, Dr. 
+14762; Kapeller Norbert, Ing. 
+00770; Kapral Emma 
+01954; Kapsreiter Gustav 
+00772; Karas Othmar, Dr., MBL-HSG 
+00773; Karasek Franz, Dr. 
+35490; Karl Beatrix, Mag. Dr. 
+00774; Karl Elfriede 
+51564; Karlsböck Andreas F., Dr. 
+00777; Karlsson Irmtraut, Dr. 
+83129; Kassegger Axel, MMMag. Dr. 
+00782; Katzengruber Franz 
+32494; Katzian Wolfgang 
+02815; Kaufmann Herbert, Mag. 
+01983; Kaufmann Martina, MMSc BA 
+00786; Kaufmann Paul, Dr. 
+68819; Kaufmann-Bruckberger Elisabeth 
+01996; Kecht Anton 
+14840; Keck Dietmar 
+00789; Keimel Otto, Dipl.-Kfm. Dr. 
+00791; Keller Heinrich, Dr. 
+00792; Keller Otto 
+00794; Keppelmüller Peter, Dipl.-Ing. Dr. 
+02941; Kern Christian, Mag. 
+01957; Kern Felix 
+00795; Kern Leopold 
+00797; Kerschbaum Josef 
+00798; Kerstnig Hans, Dr. 
+06735; Keuschnigg Georg 
+00799; Khol Andreas, Dr. 
+35520; Kickl Herbert 
+01964; Kienböck Viktor, Dr. 
+02860; Kier Volker, Dr. 
+00800; Kiermaier Günter 
+00802; Killisch-Horn Michael, Dipl.-Vw. 
+00804; Kindl Wilhelm 
+00805; Kinzl Karl 
+01984; Kirchbaumer Rebecca 
+35495; Kirchgatterer Franz 
+00806; Kirchknopf Josef 
+00807; Kiss Paul 
+00808; Kittl Eduard 
+51565; Kitzmüller Anneliese 
+00810; Klaus Josef, Dr. 
+00811; Klausberger Gerhard, Mag. 
+00812; Klautzer Franz 
+05195; Klein Anneliese 
+00818; Kleiner Viktor, Dr. 
+00816; Klein-Löw Stella, Dr. 
+00819; Kleissl Robert 
+35523; Klement Karlheinz, Dipl.-Ing., MAS 
+00823; Klenner Fritz 
+00825; Kletzmayr Hermann 
+00826; Klieber Mauritius 
+51552; Klikovits Oswald 
+02791; Klima Viktor, Mag. 
+00831; Klimann Thomas 
+00833; Klimberger Karl 
+88857; Klinger Wolfgang, Ing. 
+00835; Klomfar Helmut 
+30036; Klug Gerald, Mag. 
+00837; Klug Simon 
+00846; Knechtelsdorfer Karl 
+08190; Knerzl Anton 
+83112; Knes Wolfgang 
+00847; Kneußl Erich, Dr. 
+30352; Knoll Gertraud, Mag. 
+00851; Knoll Josef 
+00853; Knosp Josef 
+83100; Köchl Matthias 
+00859; Köck Franz 
+00860; Köck Ignaz 
+35491; Köfer Gerhard 
+08242; Kogler Werner, Mag. 
+00886; Kohlmaier Herbert, Dr. 
+00888; Kokail Siegfried 
+00892; Kolassa Viktor, Dr. 
+00894; Kolb Ernst, Dr. 
+00895; Kolb Franz, Dr. 
+02346; Kolba Peter, Dr. 
+00897; Kollarz Friedrich 
+00898; Koller Emmerich 
+03596; Koller Franz 
+00899; Koller Franz 
+00903; Kollmann Alfred 
+00904; Kollmann Josef 
+18666; Kollross Andreas 
+00907; Konecny Albrecht 
+01174; Konecny Helene 
+00870; König Berthold 
+00861; König Friedrich, Dipl.-Kfm. DDr. 
+14841; Königsberger-Ludwig Ulrike 
+02019; Königshofer Werner, DDr. 
+00910; Konir Fritz 
+00911; Konrad Helga, Dr. 
+02822; Kopf Karlheinz 
+00912; Kopf Rudolf, Dr. 
+00914; Koplenig Johann 
+00920; Koppensteiner Gerhard 
+00922; Koppler Erhard 
+00923; Koref Ernst, Dr. 
+00924; Koren Hanns, Dr. 
+00925; Koren Stephan, Dipl.-Vw. Dr. 
+00877; Körner Theodor, Dr. h.c. 
+00926; Korosec Ingrid 
+00927; Kortschak Franz, Ing. 
+51587; Korun Alev, Mag. 
+00928; Kos Wilhelm, Dr. 
+08211; Kößl Günter 
+00929; Kostelecky Josef 
+00930; Kostelka Peter, Dr. 
+57488; Köstinger Elisabeth 
+00880; Köstler Maria 
+00931; Kostroun Ludwig 
+00882; Köteles Johann 
+00935; Kottek Franz 
+03090; Kottulinsky Hans, Dipl.-Ing. 
+00940; Kotzina Vinzenz, Dr. 
+02328; Kovacevic Christian 
+00883; Kövari Susanne 
+00944; Kowald Ludwig, Ing. 
+00949; Kraft Emil 
+00952; Kraft Hermann 
+00954; Krainer Josef, Dr. 
+14842; Krainer Kai Jan 
+00959; Krammer Christa, Dr. 
+00960; Krammer Karl 
+00961; Kranebitter Franz 
+00962; Kranzlmayr Otto, Dr. 
+00963; Kratky Josef 
+00964; Krauland Peter, Dr. 
+00965; Kraus Herbert Alois, Dr. 
+00966; Kraus Josef 
+01691; Krauss Maximilian 
+00946; Kräuter Günther, Dr. 
+00948; Kräutl Adolf 
+00969; Kreisky Bruno, Dr. 
+00973; Krempl Matthias 
+00974; Kren Maria 
+01985; Krenn Barbara 
+02004; Krenn Erika 
+00977; Krenn Willibald, Ing. 
+00978; Kreutzberger Friedrich 
+00979; Krippner Franz 
+00980; Krisch Karl 
+00981; Krismanich Elfriede, Mag. 
+02344; Krisper Stephanie, Dr. 
+14843; Krist Hermann 
+00982; Kristofics-Binder Rudolf, Dipl.-Kfm. 
+00983; Kriz Georg 
+00984; Kroboth Rudolf 
+03605; Kröll Hermann 
+00986; Krones Hilde 
+00987; Krottendorfer Leopold 
+02838; Krüger Michael, Dr. 
+00990; Krünes Helmut, Dipl.-Ing. Dr. 
+00992; Krüzner Alexander, Dr. 
+00993; Kuba Heinrich 
+09073; Kubitschek Maria, Mag. 
+35908; Kucharowits Katharina 
+83113; Kucher Philip 
+01986; Kugler Gudrun, Dr. 
+01987; Kühberger Andreas 
+00998; Kukacka Helmut, Mag. 
+00999; Kulhanek Hans 
+01001; Kummer Franz 
+01002; Kummer Karl, Dr. 
+02816; Kummerer Werner, Dipl.-Ing. 
+86603; Kumpitsch Günther, Mag. 
+51567; Kunasek Mario 
+01003; Kunschak Leopold 
+01004; Kunst Josef, Ing. 
+01005; Kunstätter Harald 
+08178; Kuntzl Andrea, Mag. 
+65321; Kurz Sebastian 
+02823; Kurzbauer Johann 
+05075; Kurzmann Gerhard, Dr. 
+03129; Kuss-Bergner Angelika, BEd 
+01007; Kuttner Astrid 
+35494; Kuzdas Hubert, Ing. Mag. 
+01008; Kysela Karl 
+00740; Lach Franz, Dr. 
+02770; Lacina Ferdinand, Dipl.-Kfm. 
+00742; Lackner Friedrich, Ing. 
+00745; Lackner Hermann 
+00747; Lackner Josef, Dipl.-Vw. Dr. 
+03611; Lackner Manfred 
+02839; Lafer Franz 
+00748; Lafer Karl 
+00749; Lagger Hans 
+00750; Laimer Hans 
+02330; Laimer Robert 
+00762; Lakowitsch Karl 
+00766; Lampl Franz 
+00769; Lanc Erwin 
+00775; Landgraf Konrad 
+00776; Landmann Paul 
+12553; Langreiter Hans, Mag. 
+00785; Langthaler Monika, Ing. 
+00788; Lanner Anton 
+00793; Lanner Sixtus, Dr. 
+11570; Lapp Christine, Mag., MA 
+88823; Lasar David 
+00796; Laser Adolf 
+51568; Lausch Christian 
+00817; Lausecker Karl 
+50067; Lautenschlager Hartmann 
+00822; Lechner Franz, Dipl.-Ing. Dr. 
+05715; Ledolter Johann 
+00828; Lehr Friedrich 
+00829; Leibenfrost Albert, Dr. 
+22694; Leichtfried Jörg, Mag. 
+00836; Leikam Anton 
+00838; Leimböck Ernst 
+00840; Leiner Günther, Dr. 
+00842; Leisser Franz 
+00845; Leithenmayr Hermann 
+00848; Leitner Alois, Dipl.-Ing. Dr. 
+02824; Leitner Peter 
+00856; Lengauer Josef 
+02886; Lentsch Edeltraud 
+00862; Lenz Hans 
+00863; Lenzi Josef, Dr. 
+00864; Leser Ludwig, Dr. h.c. 
+00865; Leskovar Adolf 
+00866; Letmaier Josef, Ing. 
+51553; Lettenbichler Josef, Mag. 
+00867; Leutgeb Leopold 
+05175; Leutgöb Karl 
+00868; Leuthner Karl 
+22533; Leutner Richard, Dr. 
+08212; Lexer Reinhold 
+00871; Libal Otto 
+00873; Lichal Robert, Dr. 
+08243; Lichtenberger Evelin, Dr. 
+18447; Lichtenecker Ruperta, Dr. 
+15528; Lichtenegger Elmar 
+00876; Lichtenegger Fritz 
+00879; Liechtenstein Vincenz, Dr. 
+00884; Lieschnegg Karl 
+00887; Linder Anton 
+51577; Linder Maximilian 
+02001; Lindinger Klaus, Ing., BSc 
+86613; Lindner Mario 
+00889; Lins Herbert 
+00890; Linsbauer Franz 
+03895; Linser Franz, Dr. 
+83142; Lintl Jessi, Dr. 
+51548; Lipitsch Hermann 
+05484; List Daniela, Ing. 
+51578; List Kurt 
+00905; Liwanec Willi 
+83121; Loacker Gerald, Mag. 
+00909; Löffler Robert, Dipl.-Kfm. 
+36987; Lohfeyer Rosa, Mag. 
+09168; Loos Johann 
+15526; Lopatka Reinhold, Dr. 
+00913; Löschnak Franz, Dr. 
+00921; Ludwig Eduard, Dr. 
+00932; Ludwig Hans 
+22449; Lueger Angela 
+51579; Lugar Robert, Ing. 
+00934; Luhamer Josef 
+00939; Lukas Leo 
+00943; Lukesch Dieter, Dipl.-Vw. Dr. 
+00951; Lump Anton 
+08244; Lunacek Ulrike, Mag. 
+00955; Luptowits Michael 
+00957; Lussmann Hermann 
+00971; Luttenberger Franz 
+14763; Machne Helga 
+01014; Machunze Erwin 
+01015; Mackowitz Rudolf 
+01022; Maderner Josef, DDr. 
+01023; Maderthaner Leopold, Ing. 
+01024; Maderthaner Michael 
+02840; Madl Elfriede 
+01025; Mädl Jakob 
+01026; Mahnert Klaus 
+02006; Mahrer Karl, BA 
+01027; Maier Anton, Dr. 
+06155; Maier Ferdinand, Dr. 
+01028; Maier Franz 
+03755; Maier Johann, Mag. 
+01029; Maier Kurt 
+07236; Mainoni Eduard, Mag. 
+01031; Mairinger Max 
+01032; Maisel Karl 
+02825; Maitz Karl, Dr. 
+01041; Maleta Alfred, Dr. 
+14694; Mandak Sabine 
+01045; Mandl Wilhelm 
+01046; Manhalter Rudolf 
+01047; Manndorff Ferdinand 
+01053; Marberger Karl 
+02122; Marchetti Nico 
+01070; Marchner Rudolf 
+14764; Marek Christine 
+01078; Margaretha Eugen, Dr. 
+02333; Margreiter Doris 
+01079; Marizzi Peter 
+01080; Mark Karl 
+03250; Märk Elisabeth 
+51580; Markowitz Stefan 
+01082; Markschläger Rudolf 
+01083; Marktschläger Rudolf 
+05255; Marolt Heinz Anton 
+01084; Marsch Fritz 
+01085; Marwan-Schlosser Rudolf 
+01086; Mataja Heinrich, Dr. 
+01087; Matejcek Josef 
+02010; Mathis Kurt, Ing. 
+01088; Matt Josef 
+01089; Matzenauer Hans 
+14844; Matznetter Christoph, Dr. 
+01092; Maurer Hans, abs. iur. 
+83101; Maurer Sigrid 
+01093; Mautner Markhof Georg, Dipl.-Kfm. 
+35501; Mayer Elmar 
+01095; Mayer Ferdinand 
+01105; Mayer Josef 
+01109; Mayer Ludwig 
+01111; Mayer Norbert 
+01114; Mayer Oskar, Dr. 
+51554; Mayer Peter 
+35499; Mayerhofer Leopold 
+01117; Mayr Franz 
+01118; Mayr Hans 
+01120; Mayr Michael, Dr. 
+01121; Mayr Otto 
+01123; Mayrhofer Franz 
+01124; Mayrhofer Hans 
+83122; Meinl-Reisinger Beate, Mag., MES 
+01127; Meischberger Walter, Ing. 
+01128; Meisinger Josef 
+01129; Meißl Othmar 
+01131; Meißner Theodor 
+01130; Meissner-Blau Freda 
+01134; Melter Werner 
+01135; Mentasti Alois 
+02841; Mentil Hermann 
+01137; Mertel Ilse, Dr. 
+01138; Messner Evelyn, Mag. 
+01139; Metzker Maria 
+08213; Miedl Werner 
+01142; Migsch Alfred, Dr. 
+15527; Mikesch Herta 
+01143; Miklas Wilhelm 
+08214; Mikl-Leitner Johanna, Mag. 
+01144; Mikola Frieda 
+01165; Miksch Karl 
+01170; Minkowitsch Roland, Mag. 
+05435; Missethon Hannes, Dipl.-Ing. 
+01177; Mistinger Leo 
+01179; Mittendorfer Josef 
+01181; Mitterer Otto 
+01196; Mitterer Peter 
+08696; Mitterlehner Reinhold, Dr. 
+25950; Mittermüller Marialuise 
+83123; Mlinar Angelika, Mag. Dr., LL.M. 
+02005; Möbius Reinhold, Dr. 
+01199; Mock Alois, Dr. 
+01204; Modl Josef 
+01216; Moik Wilhelmine 
+01223; Molterer Josef 
+01226; Molterer Wilhelm, Mag. 
+36187; Mölzer Wendelin 
+01227; Mondl Walter 
+02826; Morak Franz 
+01230; Morawitz Hans 
+35488; Moretti Adelheid Irina 
+01232; Moser Eduard, Dr. 
+01237; Moser Franz 
+02853; Moser Gabriela, Dr. 
+01239; Moser Hans Helmut 
+14845; Moser Johann, Mag. 
+01242; Moser Josef 
+03896; Moser Josef, Dr. 
+01245; Moser Wilhelmine 
+02872; Moser-Starrach Sonja, Dr. 
+01247; Moßhammer Franz 
+01246; Möst Maria Elisabeth, Dipl.-Ing. 
+01248; Motter Klara 
+01249; Mrkvicka Franz 
+01250; Muchitsch Hans 
+35497; Muchitsch Josef 
+83102; Mückstein Eva, Dr. 
+01255; Mühlbacher Kurt 
+01257; Mühlbachler Josef, Dipl.-Kfm. Mag. 
+51569; Mühlberghuber Edith 
+01268; Müller Adolf 
+01273; Müller Franz 
+08195; Müller Hans 
+02817; Müller Karl Gerfried 
+01282; Müller Lothar, Dr. 
+01286; Müllner Franz, Dr. 
+01287; Müllner Hans 
+01289; Müllner Viktor 
+01295; Murauer Walter 
+01297; Murer Gerulf, Ing. 
+01301; Murowatz Lona 
+51588; Musiol Daniela, Mag. 
+01303; Mussil Arthur, Dr. 
+08179; Muttonen Christine, Mag. 
+83139; Nachbaur Kathrin, Dr. 
+01012; Nedwal Andreas 
+01013; Nedwed Ernst, Ing. 
+02136; Nehammer Karl, MSc 
+01017; Neidhart Rolf, Dr. 
+01018; Neisser Heinrich, Dr. 
+19681; Nekula Kurt, MA, MAS 
+01019; Nemecz Alexander, Dr. 
+35522; Neubauer Werner, BA 
+08196; Neudeck Detlev 
+01020; Neudorfer Franz 
+03604; Neugebauer Fritz 
+01021; Neugebauer Max, Dr. 
+01033; Neuhauser Ernst 
+01034; Neuhofer Michael 
+01035; Neumann Anton 
+01036; Neumann Johann 
+01038; Neuner Kurt, DDr. 
+93132; Neuroth Barbara, Mag. 
+01042; Neustädter-Stürmer Odo 
+01049; Neuwirth Karl 
+01050; Neuwirth Thomas, abs. iur. 
+08775; Niederhuemer Wilhelm 
+01052; Niederwieser Erwin, DDr. 
+01054; Niedrist Karl 
+01056; Nimmervoll Franz 
+01057; Ninaus Josef 
+02242; Niss Maria Theresia, Dr., MBA 
+01058; Nittel Heinz 
+02336; Noll Alfred J., Dr. 
+01061; Nowotny Ewald, Dr. 
+01062; Nürnberger Rudolf 
+02866; Nußbaumer Wolfgang, Ing. 
+02334; Nussbaum Verena, Mag. 
+01065; Oberegger Josef, Ing. 
+01066; Oberhaidinger Georg 
+01067; Oberhammer Aloys, Dr. 
+35509; Oberhauser Sabine, Dr., MAS 
+35487; Obernosterer Gabriel 
+01073; Obrutschka Fritz 
+01071; Odehnal Franz, Dr. 
+01074; Oelzelt Franz 
+83300; Ofenauer Friedrich, Mag. 
+01077; Ofenböck Josef 
+01100; Offenbeck Jolanda, Dr. 
+01101; Ofner Harald, Dr. 
+01106; Olah Franz 
+02854; Öllinger Karl 
+01108; Onodi Heidemaria 
+08197; Ortlieb Patrick 
+01110; Ortner Josef 
+01112; Ortner Peter, Mag. 
+01116; Ott Heinrich 
+83150; Ottenschläger Andreas 
+14765; Pack Jochen 
+01150; Pansi Herbert 
+08184; Papházy Sylvia, Dr., MBA 
+01153; Parfuss Ludmilla 
+01154; Pargfrieder Leopold 
+01155; Parnigoni Rudolf 
+01156; Parrer Franz 
+01157; Partik Matthias 
+01158; Partik-Pablé Helene, Dr. 
+01160; Paulitsch Alois, Dr. 
+01161; Paulitsch Michael 
+01162; Pauly Max 
+01163; Paunovic Nadine, Dr. 
+01164; Pawkowicz Rainer, Dipl.-Ing. Dr. 
+01166; Pawlik Annemarie 
+01168; Pay Michael 
+01171; Pazelt Josef 
+08215; Pecher Martina, Mag. 
+01173; Peck Josef 
+01176; Pelikan Fritz, Dr. 
+05375; Pendl Otto 
+01180; Pernter Hans, Dr. 
+02938; Peschel Brigitte 
+01183; Peter Adolf 
+01184; Peter Friedrich 
+01185; Peter Helmut, Mag. 
+01186; Petrovic Madeleine, MMag. Dr. 
+01188; Petschnik Viktor 
+51581; Petzner Stefan 
+01942; Pewny Christian, Ing. 
+01190; Pfeffer Karl 
+02868; Pfeffer Katharina 
+01191; Pfeifer Helfried, Dr. 
+01192; Pfeifer Josef 
+83151; Pfurtscheller Elisabeth, Dipl.-Kffr. (FH) 
+01197; Pichler Adam 
+01198; Pichler Franz 
+01201; Pichler Josef 
+01203; Pick Karl 
+01208; Piffl-Percevic Theodor, Dr. 
+01209; Piller Ernst 
+01210; Pilz Peter, Dr. 
+01211; Pirchegger Anton 
+01215; Pirker Hubert, Dr. 
+08245; Pirklhuber Wolfgang, Dipl.-Ing. Dr. 
+01218; Pischitz Georg 
+01219; Pischl Karl 
+01221; Pistor Felix 
+08198; Pistotnig Jakob 
+01224; Pittermann Bruno, DDr. 
+02888; Pittermann Elisabeth, Dr. 
+01229; Plaimauer Stefan 
+02295; Plakolm Claudia 
+08180; Plank Brunhilde, Mag. 
+01231; Plasser Franz 
+24479; Plassnik Ursula, Dr. 
+02827; Platter Günther 
+51549; Plessl Rudolf 
+01236; Pöder Rudolf 
+59908; Podgorschek Elmar 
+01254; Pokorny Maria 
+01256; Polcar Fritz 
+01258; Polke Emil 
+01259; Pollak Marianne 
+01238; Pölz Johann 
+01241; Pölzer Johann 
+01243; Pölzer Johann 
+01269; Popp Adelheid 
+01270; Populorum Adolf 
+01272; Porges Alfred 
+01277; Posch Paul 
+01278; Posch Walter, Mag. 
+01251; Pötsch Johann 
+05486; Pöttinger Laurenz 
+03614; Povysil Brigitte, Dr. 
+01281; Prader Georg, Dr. 
+01288; Prähauser Stefan 
+01283; Praher Adelheid 
+04476; Prammer Barbara, Mag. 
+01291; Pranckh Georg 
+02802; Pranckh Georg 
+14766; Praßl Michael 
+01293; Praxmarer Karin, Mag. 
+01294; Prechtl Fritz 
+14875; Preineder Martin 
+30011; Preiner Erwin 
+01299; Preiß Kurt, Dr. 
+02843; Preisinger Susanne, Dr. 
+01300; Prentl Josef 
+02844; Pretterebner Hans 
+01302; Preußler Kurt 
+01306; Prinke Franz, Dr. h.c. 
+08235; Prinz Nikolaus 
+03613; Prinzhorn Thomas, Dipl.-Ing. 
+01307; Prirsch Ferdinand 
+01308; Probst Anton 
+01310; Probst Friedrich 
+01311; Probst Otto 
+01312; Prodinger Hans 
+01313; Proft Gabriele 
+01314; Proksch Anton 
+15465; Pröll Josef, Dipl.-Ing. 
+01316; Pumberger Alois, Dr. 
+01318; Puntigam Alois, Dr. 
+02764; Puntscher Riekmann Sonja, Dr. 
+14846; Puswald Christian, Dr. 
+02011; Puttinger Günter, Dipl.-Kfm. Dr. 
+01480; Raab Julius, Ing. DDDr. 
+01502; Rabl-Stadler Helga, Dr. 
+02828; Rack Reinhard, Dr. 
+02818; Rada Robert, Dr. 
+01503; Radinger Stephan 
+14767; Rädler Johann 
+01937; Ragger Christian, Mag. 
+01521; Rainer Hermann 
+01526; Ramek Rudolf, Dr. 
+01532; Rammer Hans 
+02869; Ramsbacher Helena 
+01538; Rapatz Robert, Dipl.-Ing. 
+01541; Raser Josef 
+02862; Rasinger Erwin, Dr. 
+83152; Rauch Johannes, Mag. 
+83130; Rauch Walter 
+01546; Rauch-Kallat Maria 
+01551; Rauhofer Josef, abs. iur. 
+01552; Rauscha Julie 
+01558; Rauscher Franz 
+01559; Rechberger Alois 
+01561; Regensburger Franz 
+15548; Regler Roderich, Dipl.-Ing. Mag. 
+06997; Reheis Gerhard 
+01563; Rehor Grete 
+01648; Reich Josef 
+01649; Reichhold Mathias, Ing. 
+01651; Reicht Alois 
+03717; Reifenberger Volker, Ing. Mag. 
+01653; Reimann Viktor, Dr. 
+08199; Reindl Hermann 
+01654; Reiner Fritz, Ing. 
+01655; Reinhart Karl, Dr. 
+01657; Reisetbauer Rudolf, Dr. 
+01658; Reisinger Heinrich 
+01659; Reismann Edmund 
+01660; Reiter Josef 
+01661; Reitsamer Annemarie 
+01662; Remplbauer Wilhelm 
+91034; Rendi-Wagner Pamela, Dr., MSc 
+01663; Renner Florian 
+01664; Renner Karl, Dr. 
+01665; Renner Walter 
+01666; Renoldner Severin, DDr. 
+01668; Resch Josef, Dr. 
+01669; Resch Walter 
+01672; Ressel Hans-Joachim, Ing. 
+14696; Rest-Hinterseer Heidemarie 
+01677; Richter Paul 
+01678; Rieder Hans 
+01679; Rieder Josef, Dr. 
+01681; Riedl Walter 
+03756; Riedler Wolfgang, Dr. 
+01684; Rieger Eduard 
+01686; Riegler Josef, Dipl.-Ing. 
+61659; Riemer Josef A. 
+14768; Riener Barbara 
+03599; Riepl Franz 
+02997; Ries Christian 
+01950; Rieß Susanne 
+01688; Riess-Passer Susanne, Dr. 
+35496; Rinner Sylvia 
+01689; Rintelen Anton, Dr. 
+01690; Robak Friedrich 
+01692; Rochus Ottilie 
+01694; Rödhammer Hans 
+14043; Röhrs Konstanze, Mag. 
+01701; Roithner Berthold 
+01704; Rom Martin 
+01696; Römer Alfred 
+01705; Roppert Alois 
+01698; Rösch Eduard 
+01699; Rösch Otto 
+02297; Rosenberger Alois, Dipl.-Ing. 
+01707; Rosenberger Paul 
+14693; Rosenkranz Barbara, MA 
+51570; Rosenkranz Walter, Dr. 
+01708; Rosenstingl Peter 
+35516; Rossmann Bruno, Mag. 
+02845; Rossmann Mares 
+01709; Roth Hans 
+01710; Roth Rupert, Dr. 
+01713; Rozenits Demetrius 
+01716; Rück Rosa 
+01717; Rückl Engelbert 
+36507; Rudas Laura, Mag. 
+01715; Rudel-Zeynek Olga 
+01718; Ruhaltinger Franz 
+01720; Rupp Josef 
+83296; Rupprechter Andrä, Dipl.-Ing. 
+02846; Ruthofer Kurt, Dipl.-Kfm. 
+01565; Sacher Ewald 
+01566; Sailer Georg 
+01568; Salcher Herbert, Dr. 
+01571; Sallaberger Günther 
+01572; Sallinger Rudolf, Ing. 
+02847; Salzl Stefan, Dr. 
+03716; Salzmann Gertraud, MMMag. 
+01575; Samwald Franz 
+02335; Sandler Birgit Silvia 
+01576; Sandmeier Karl 
+01577; Sassik Raimund 
+02829; Sauer Willi 
+14695; Sburny Michaela 
+01581; Schaber Franz 
+86681; Schabhüttl Jürgen 
+02861; Schaffenrath Maria 
+01586; Schäffer Gerhard, Mag. 
+35519; Schalle Veit 
+01971; Schandor Christian, Dipl.-Ing. 
+14847; Scharer Erika 
+01592; Scharf Erwin 
+01587; Schärf Adolf, Dr. 
+01593; Scharfegger Ambros 
+03155; Schartel Andrea Michaela 
+08181; Schasching Beate 
+35512; Schatz Birgit, Mag. 
+02337; Schatz Sabine 
+01597; Schauer Erwin 
+01596; Schauer-Schoberlechner Johannes, Dr. 
+01598; Scheff Otto, Dr. 
+01599; Scheffauer Theodor 
+01600; Scheibein Wilhelm 
+01601; Scheibengraf Heinrich, Ing. 
+01602; Scheibenreif Alois 
+01603; Scheiblin Anton 
+01604; Scheibner Herbert 
+01993; Schein Leopold 
+83132; Schellenbacher Thomas, Ing. 
+84056; Schellhorn Josef 
+36907; Schelling Johann Georg, Dr. 
+01607; Schemer Stefan 
+08200; Schender Rüdiger, Mag. 
+51582; Schenk Martina 
+83125; Scherak Nikolaus, Dr., MA 
+01608; Scherrer Josef 
+06815; Scheuch Kurt, Ing. 
+01609; Scheuch Robert, Dipl.-Ing. Dr. 
+14893; Scheuch Uwe, Dipl.-Ing. 
+01610; Scheucher Reinhold 
+14896; Scheucher-Pichler Elisabeth, Mag. 
+61239; Schickhofer Michael, Mag. 
+35504; Schieder Andreas, Mag. 
+01613; Schieder Peter, Dr. h.c. 
+14771; Schiefermair Notburga 
+01614; Schiegl Wilhelm 
+51559; Schimanek Carmen 
+01617; Schindlbacher Ernst, Ing. 
+01721; Schirmer Aloisia 
+36908; Schittenhelm Dorothea 
+01722; Schlager Anton 
+01723; Schlager Josef 
+01724; Schlager Rudolf 
+01726; Schleinzer Karl, Dipl.-Ing. Dr. 
+01727; Schlesinger Paul Johannes 
+01728; Schlesinger Therese 
+01729; Schlögl Karl, Mag. 
+01730; Schlögl Manfred, Mag. 
+01731; Schmelz Heinrich, Dipl.-Ing. Dr. 
+83133; Schmid Gerhard 
+83103; Schmid Julian, BA 
+01733; Schmid Michael, Dipl.-Ing. 
+05138; Schmidhofer Karl 
+01734; Schmidl Josef 
+01735; Schmidt Albert, Dr. 
+01736; Schmidt Elisabeth 
+01737; Schmidt Erich, Dr. 
+01738; Schmidt Friedrich 
+01739; Schmidt Heide, Mag. Dr. 
+01740; Schmidt Josef 
+01742; Schmidtmeier Herbert 
+01944; Schmiedlechner Peter 
+01743; Schmitz Richard 
+01744; Schmitzer Karl, Ing. 
+01745; Schmölz Johann 
+52727; Schmuckenschlager Johannes 
+01746; Schneeberger Pius 
+01747; Schneider Emil, Dr. 
+01748; Schneider Maria, Dr. 
+01749; Schneidmadl Heinrich 
+01750; Schnell Hermann, Dr. 
+02315; Schnöll Stefan, Mag. 
+01752; Schober Albin 
+01754; Schober Johannes, abs. iur. DDDr. h.c 
+08201; Schoettel-Delacher Irina, lic.oec. HSG 
+02848; Schöggl Leopold, Dipl.-Ing. 
+01765; Schoiswohl Michael 
+01766; Scholger Walter 
+01763; Schöll Hans 
+04716; Schöls Alfred 
+02789; Scholten Rudolf, Dr. 
+01756; Schön Franz 
+01757; Schönbauer Ernst, DDr. 
+01758; Schönbauer Leopold, Dr. 
+51555; Schönegger Bernd, Mag. 
+01760; Schönhart Günter 
+14848; Schönpass Rosemarie 
+01761; Schönsteiner Friedrich 
+14849; Schopf Walter 
+01762; Schöpf Albert, Dr. 
+01764; Schöpfer Aemilian, Dr. 
+01767; Schorn Hildegard 
+01768; Schorsch Johann 
+01770; Schramm Erwin 
+83134; Schrangl Philipp, Mag. 
+01771; Schranz Edgar, Dr. 
+02830; Schrefel Josef 
+01772; Schreiner Anton 
+01773; Schreiner Erich L., Ing. Mag. 
+02320; Schrott Dominik 
+01777; Schrotter Johann 
+09775; Schultes Hermann, Ing. 
+01785; Schulz Hermann 
+01782; Schumacher Franz, Dr. 
+01786; Schumy Vinzenz, Ing. 
+01778; Schürer Franz 
+01779; Schürff Hans, Dr. 
+01787; Schuschnigg Kurt, Dr. 
+01781; Schüssel Wolfgang, Dr. 
+01788; Schuster Johann 
+00717; Schütz Waltraud, Mag. 
+02326; Schwarz Gabriela 
+01795; Schwarzböck Rudolf 
+01796; Schwarzenberger Georg 
+01791; Schwärzler Erich, Ing. 
+01801; Schweinberger Johann 
+01802; Schweinhammer Johann 
+08236; Schweisgut Johannes 
+01803; Schweitzer Karl, Mag. 
+01806; Schwemlein Emmerich 
+51589; Schwentner Judith, Mag. 
+01808; Schwer Karl, Dr. 
+01810; Schwimmer Walter, Dr. 
+01812; Scrinzi Otto, Dr. 
+01814; Sebinger Hans 
+01816; Seda Erika, Dr. 
+01819; Seel Helmut, Dr. 
+01821; Ségur August 
+01825; Seidel Amalie 
+01830; Seidel Richard, Ing. 
+01833; Seidinger Winfried 
+01836; Seidl Georg 
+01841; Seiler Hilde 
+01843; Seilinger Josef 
+01845; Seiner Anton 
+01992; Seipel Ignaz, Dr. 
+01991; Seiringer Karl 
+01783; Seitz Karl 
+01850; Sekanina Karl 
+01855; Sever Albert 
+07156; Sevignani Hans 
+14769; Sieber Norbert 
+01867; Siegl Josef 
+01868; Sigl Robert 
+02763; Silhavy Heidrun 
+08182; Sima Ulrike, Mag. 
+51556; Singer Johann 
+01871; Singer Rudolf 
+01872; Sinowatz Fred, Dr. 
+01873; Skaret Ferdinand 
+01881; Skritek Otto 
+01883; Slavik Felix 
+01885; Smejkal Ingrid 
+01893; Smitka Johann 
+03133; Smodics-Neumann Maria, Mag. 
+03132; Smolle Josef, Dr. 
+01894; Smolle Karl 
+88386; Sobotka Wolfgang, Mag. 
+08202; Sodian Andreas 
+01895; Solar Lola 
+18542; Sonnberger Peter, Dr. 
+01898; Soronics Franz 
+51583; Spadiut Wolfgang, Dr. 
+01804; Spalowsky Franz 
+01805; Spannocchi Lelio, Dr. 
+01807; Speiser Paul 
+01809; Spielbüchler Karl 
+14850; Spindelberger Erwin 
+01815; Spindelegger Erich, Ing. 
+01817; Spindelegger Michael, Dr. 
+01820; Springschitz Stefan 
+01822; Srb Manfred 
+14851; Stadlbauer Bettina 
+10342; Stadler Astrid 
+02849; Stadler Ewald, Mag. 
+01823; Staffa Franz 
+08203; Staffaneller Norbert 
+01826; Stampler Andreas 
+03691; Stampler Franz 
+01827; Stangl Maria 
+01874; Starhemberg Ernst Rüdiger 
+01829; Staribacher Josef, Dipl.-Vw. Dr. 
+02327; Stark Christoph 
+35492; Stauber Peter 
+01831; Staudinger Rudolf 
+51571; Stefan Harald, Mag. 
+01832; Steger Norbert, Dr. 
+83135; Steger Petra 
+02018; Steibl Ridi Maria 
+01834; Steidl Albert, Dipl.-Kfm. Dr. 
+14852; Steier Gerhard 
+01835; Stein Viktor 
+83059; Steinacker Michaela, Mag. 
+01837; Steinbach Ernst 
+01838; Steinbauer Heribert 
+04395; Steinbichler Leopold 
+02831; Steindl Franz, Mag. 
+02765; Steindl Katharina 
+14793; Steindl Konrad 
+01880; Steinegger Hans 
+01882; Steinegger Otto, abs. iur. 
+01884; Steiner Franz 
+01842; Steiner Josef 
+01886; Steiner Josef 
+01844; Steiner Ludwig, Dipl.-Vw. Dr. 
+40628; Steinhauser Albert, Mag. 
+01846; Steinhuber Sepp 
+01847; Steininger Franz 
+01887; Steinmaßl Erwin 
+01889; Stemberger Josef, Dr. 
+01890; Stempfer Georg 
+01852; Stendebach Max 
+59247; Steßl Sonja, Mag. 
+01857; Steyrer Kurt, Dr. 
+01858; Stika Felix 
+01860; Stippel Johann, Dr. 
+01861; Stix Gerulf, Dipl.-Vw. Dr. 
+05439; Stocker Christian, Dr. 
+01862; Stocker Franz 
+01863; Stocker Helmuth 
+01892; Stöckler Josef 
+52687; Stöger Alois, diplômé 
+01864; Stögner Gregor 
+01865; Stögner Hans, Dr. 
+01900; Stohs Herbert 
+01902; Stoisits Terezija, Mag. 
+01903; Stoll Franz 
+35518; Strache Heinz-Christian 
+01905; Strache Max 
+01906; Strachwitz Ernst, Dr. 
+01907; Stradal Emmy 
+01908; Straffner Sepp, Dr. 
+01910; Straßberger Josef 
+08657; Strasser Ernst, Dr. 
+83153; Strasser Georg, Dipl.-Ing. 
+01911; Strasser Peter 
+01912; Streeruwitz Ernst 
+01913; Stricker Adolf 
+01915; Strießnigg Karl 
+01918; Strobl Franz, Dipl.-Ing. 
+01917; Strobl Robert 
+01919; Ströer Alfred 
+01920; Strohmaier Vinzenz 
+10304; Strolz Matthias, Mag. Dr. 
+01927; Strommer Josef 
+83138; Stronach Frank 
+01929; Strunz Rudolf 
+55147; Strutz Martin, Dr. 
+01932; Stüber Fritz, Dr. 
+01933; Stummvoll Günter, Dipl.-Kfm. Dr. 
+01934; Stürgkh Barthold 
+01940; Suchanek Erich 
+01922; Suppan Walter 
+01442; Svazek Marlene, BA 
+01924; Svihalek Friedrich 
+01925; Swoboda Karl, Dr. 
+01926; Sylvester Hans, Ing. 
+78320; Szep Irene 
+51584; Tadler Erich 
+15531; Tamandl Gabriele 
+08237; Tancsits Walter, Mag. 
+02329; Taschner Rudolf, Mag. Dr. 
+01323; Taus Josef, Dr. 
+01327; Tauschitz Stephan, Ing. 
+01337; Tazreiter Josef 
+03601; Tegischer Brigitte 
+06875; Teller Dietrich, Dipl.-Kfm. 
+01340; Teschl Alfred 
+01342; Teufl Josef 
+01343; Thaler Andreas 
+01353; Thalhammer Rudolf 
+35524; Themessl Bernhard 
+01362; Thoma Franz 
+01369; Thullner Johann 
+01370; Thurner Leopold 
+01371; Tichy-Schreder Ingrid 
+01372; Tieber Herbert, Dipl.-Vw. 
+06035; Tilg Wilfried 
+01373; Tirnthal Rudolf 
+01374; Titze Karl 
+65319; Töchterle Karlheinz, Dr. 
+01377; Tödling Othmar 
+03390; Toifl-Campregher Sonja, Dr. 
+01382; Tomschik Josef 
+01384; Toncic-Sorinj Lujo, Dr. 
+01386; van Tongel Emil, Mag. Dr. 
+01387; Tonn Rudolf 
+01396; Trattner Gilbert, Mag. 
+01398; Traußnig Adolf 
+01400; Traxler Franz 
+01402; Traxler Gabrielle 
+01403; Treichl Leonhard 
+03150; Trenk Josef 
+12185; Trettenbrein Harald 
+03602; Trinkl Josef, Mag. Dr. 
+83114; Troch Harald, Dr. 
+01416; Troll Karl 
+06817; Trunk Melitta, Mag. 
+01418; Truppe Paul 
+01423; Tschadek Otto, Dr. 
+01972; Tschank Markus, Dr. 
+01427; Tschida Johann, Dipl.-Ing. 
+01434; Tschurtschenthaler Ignaz, Dipl.-Vw. Dr. 
+01437; Tull Stephan, Dr. 
+01439; Tuller Ludwig 
+14834; Turkovic-Wendl Ingrid 
+01436; Türtscher Anton 
+01444; Tusch Maria 
+01448; Tychtl Gerald, Ing. 
+01320; Übeleis Vinzenz 
+01324; Uhlir Robert 
+01325; Ulbrich Ernst 
+01326; Ulrich Heinrich 
+01329; Umenberger Ferdinand 
+01330; Unterberger Franz 
+01331; Unterkircher Peter 
+83115; Unterrainer Maximilian, Mag. (FH) 
+51572; Unterreiner Heidemarie, Mag. 
+01334; Url Karl, Ing. 
+01335; Ursin Josef, Dr. 
+02856; Van der Bellen Alexander, Dr. 
+01344; Vaugoin Carl 
+83126; Vavrik Christoph, Mag. 
+01346; Veleta Josef 
+67839; Venier Mathias 
+01347; Verzetnitsch Friedrich 
+01348; Veselsky Ernst Eugen, Dr. 
+83143; Vetter Georg, Dr. 
+01349; Vetter Gustav 
+01350; Viehauser Jakob 
+02708; Vilimsky Harald 
+01351; Vinzl Josef 
+47147; Vock Bernhard 
+01355; Voggenhuber Johannes 
+83116; Vogl Markus, Ing. 
+01358; Voithofer Josef 
+01360; Volker Otto 
+01363; Volkert Karl 
+01364; Vollmann Hans 
+01365; Vonwald Karl 
+01366; Voraberger Hubert 
+01368; Vranitzky Franz, Dipl.-Kfm. Dr. 
+01380; Waber Leopold, Dr. 
+01375; Wabl Andreas 
+01383; Wache Wilhelm 
+01389; Wagner Johann 
+01391; Wagner Josef 
+01392; Wagner Josef, Dr. 
+01395; Wagner Otto, Dr. 
+01794; Wagner Petra 
+01401; Waihs Erwin, Dr. 
+14858; Walch Maximilian 
+01407; Walcher Franz 
+01408; Waldbrunner Karl, Dipl.-Ing. 
+01414; Walla Michael 
+01417; Wallisch Koloman 
+01419; Wallisch Paula 
+01420; Wallner Josef 
+01422; Wallner Josef 
+01424; Wallner Kurt 
+51590; Walser Harald, Dr. 
+14853; Walther Heidrun 
+01428; Wancura Johann Thomas 
+01429; Waneck Friedrich, Dr. 
+01431; Wappis Elisabeth, Dr. 
+01866; Wassermann Sandra 
+01432; Wastl Hans 
+08204; Wattaul Anton 
+01433; Weber Anton 
+01435; Weber Franz, Dr. 
+01438; Weber Rosa 
+50047; Wechner Hedwig 
+01441; Wedenig Ferdinand 
+01443; Wedenig Karl 
+15529; Wegscheider Susanne 
+01451; Weidenhoffer Emanuel, Dr. 
+01452; Weidenholzer Johann 
+01453; Weidinger Anton 
+02331; Weidinger Peter, Mag. 
+83262; Weigerstorfer Ulrike 
+01454; Weigl Richard, Ing. 
+01455; Weihs Oskar, Dipl.-Ing. Dr. 
+01456; Weikhart Eduard 
+01457; Weinberger Helmut 
+01458; Weinberger Lois 
+01459; Weindl Anton 
+02000; Weinhandl Alois 
+01460; Weinmayer Leopold 
+08205; Weinmeier Wilhelm, Ing. 
+16238; Weinzinger Brigid, Mag. 
+35500; Weinzinger Lutz 
+01466; Weiß Josef 
+01468; Weiß Ludwig, Dipl.-Ing. Dr. 
+01461; Weiser Kajetan 
+01462; Weiskirchner Richard, Dr. Dr. h.c. 
+01463; Weismann Leopold, Dr. 
+01469; Weißmann Walther, Dipl.-Kfm. Dr. 
+01464; Weiss Helmuth, Mag. 
+01470; Weisz Robert 
+01473; Wendl Franz 
+01474; Wendl Sepp 
+47087; Weninger Hannes 
+02850; Wenitsch Robert 
+01475; Wense Ernst 
+01476; Werner Max 
+02723; Westenthaler Peter, Ing. 
+01477; Westreicher Hugo 
+01481; Widholz Laurenz 
+51585; Widmann Rainer, Mag. 
+01482; Widmayer Heinrich 
+01483; Wiedenhofer Josef 
+01484; Wielandner Hermann 
+01485; Wieninger Josef 
+01486; Wieser Helga 
+01487; Wiesinger Ernst, Dipl.-Ing. 
+01488; Wiesinger Günther, Dr. 
+01489; Wiesmaier Josef 
+01491; Wille Josef 
+83104; Willi Georg 
+01492; Willinger Franz, Ing. 
+01493; Wimberger Alois 
+01495; Wimmer Elias 
+01496; Wimmer Johann 
+01494; Wimmer Matthias 
+02338; Wimmer Petra 
+02013; Wimmer Rainer 
+01498; Wimmer Walter 
+01500; Wimmersberger Anton 
+51591; Windbüchler-Souschill Tanja 
+05098; Windholz Ernest 
+71899; Windisch Franz, Ing. 
+01501; Windsteig Johann 
+01506; Winkler Ernst 
+01507; Winkler Franz, Ing. 
+01510; Winkler Herta 
+14794; Winkler Josef, Ing. 
+01511; Winsauer Ernst, Ing. 
+01512; Winsauer Werner, Dipl.-Ing. 
+01514; Winter Otto, Dr. 
+51573; Winter Susanne, Dr. 
+01515; Winterer Franz 
+60878; Winzig Angelika, Dr. 
+01516; Withalm Hermann, Dr. 
+01517; Witrisal Alois 
+13032; Wittauer Klaus 
+01518; Witternigg Josef 
+04477; Wittmann Peter, Dr. 
+01519; Witzany Franz 
+01520; Witzany Hans 
+09509; Wochesländer Jutta, Dr. 
+01524; Wodica Anton 
+14795; Wöginger August 
+05485; Wohlschlager Sandra 
+01531; Wolf Helmut 
+01533; Wolf Johann 
+01535; Wolf Leopold 
+01536; Wolf Richard 
+01527; Wölfler Alois, Mag. 
+08238; Wolfmayr Andrea, Mag. Dr. 
+01537; Wolfmayr Hans 
+01539; Wollek Richard 
+01542; Wollinger Karl 
+01543; Wondrack Gertrude 
+01529; Wörndl Heidelore 
+01545; Woschitz Anton 
+01547; Wotawa August, Dr. 
+01553; Wuganigg Viktor 
+01548; Wührer Alois 
+01554; Wunder Gottfried 
+01555; Wunsch Oskar 
+02768; Wurm Gisela, Mag. 
+83137; Wurm Peter 
+02832; Wurmitzer Georg 
+02339; Yildirim Selma, Mag. 
+83117; Yilmaz Nurten 
+35508; Zach Alexander 
+02345; Zadic Alma, Dr., LL.M. 
+83154; Zakostelsky Andreas, Mag. 
+01619; Zangel Josef 
+35514; Zanger Wolfgang 
+01620; Zankl Hubert 
+01621; Zarboch Rudolf 
+02332; Zarits Christoph 
+01622; Zaun Fritz 
+01624; Zauner Josef 
+01626; Zechmann Heinrich, Dr. 
+01627; Zechner Leopold, Dr. 
+01628; Zechtl Rupert 
+01629; Zehetgruber Franz 
+01630; Zeidler Viktor, Dr. 
+01631; Zeillinger Gustav 
+01632; Zeininger Sylvester 
+01633; Zelenka Franz 
+08206; Zellot Roland 
+01636; Zernatto Christof, Dr. 
+08207; Zierler Theresia 
+22573; Zinggl Wolfgang, Mag. Dr. 
+01638; Zingl Josef 
+01639; Zingler Franz 
+01640; Zipser Ella 
+01641; Zittmayr Hermann, Dipl.-Ing. Dr. 
+01642; Zodl Ernst 
+01643; Zwanzger Johann 
+01644; Zwenk Heinrich 
+35513; Zwerschitz Barbara 
+02887; Zweytick Johannes 
