@@ -2,7 +2,7 @@ library(tidyverse)
 library(lubridate)
 
 # Funktion um durch Übeschneiden der GP von-bis und der Mandat von-bis GP-weise Daten zu erhalten
-do_sinle <- function(von = ymd("1977-3-21"), bis = ymd("1982-9-9"))
+do_single <- function(von = ymd("1977-3-21"), bis = ymd("1982-9-9"))
   {
   lubridate::intersect(interval(von, bis), GP$Periode) %>%
     enframe(name = NULL) %>%
