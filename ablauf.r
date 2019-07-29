@@ -1,4 +1,4 @@
-# Nötige Packages
+# NÃ¶tige Packages
 library(tidyverse)
 library(lubridate)
 
@@ -11,12 +11,12 @@ source("scraping.r")
 # # Hole Daten aus dem Internet
 # first <- base$PAD[-1513] %>% map_df(., ~do_abg(.)) #1513 = 88386 Sobotka
 # 
-# # 88386 Sobotka händisch
+# # 88386 Sobotka hÃ¤ndisch
 # first <- bind_rows(first,
 #                    tibble(
 #                      PAD = "88386",
 #                      Name = "Mag. Wolfgang Sobotka",
-#                      Geschlecht = factor("m", levels = c("w", "m"), labels = c("weibl.", "männl.")),
+#                      Geschlecht = factor("m", levels = c("w", "m"), labels = c("weibl.", "mÃ¤nnl.")),
 #                      Geboren = ymd("1956-1-5"),
 #                      Gestorben = NA,
 #                      Mandat = list(
@@ -24,7 +24,7 @@ source("scraping.r")
 #                        GP = "XXVI.",
 #                        von = ymd("2017-11-9"),
 #                        bis = today(),
-#                        Klub = "ÖVP")
+#                        Klub = "Ã–VP")
 #                        )
 #                      ))
 # 
@@ -33,26 +33,26 @@ source("scraping.r")
 Abg_AT_NR <- first
 
 ### Fehlerbehebung
-# 880 Maria Köstler, gestorben im November 1965 -> Annahme Tag = 15.
+# 880 Maria KÃ¶stler, gestorben im November 1965 -> Annahme Tag = 15.
 he <- Abg_AT_NR %>% filter(PAD == "00880")        # Kopiere Zeile
 he["Gestorben"] <- dmy("15.11.1965")              # Korrigiere
-Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD) # Lösche alte Zeile
-Abg_AT_NR <- bind_rows(Abg_AT_NR, he)             # Füge korrigierte Zeile an
+Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD) # LÃ¶sche alte Zeile
+Abg_AT_NR <- bind_rows(Abg_AT_NR, he)             # FÃ¼ge korrigierte Zeile an
 rm(he)
 
 # 1738 Friedrich Schmidt, Sterbedatum nicht feststellbar -> Annahme Alter = 65
 he <- Abg_AT_NR %>% filter(PAD == "01738")        # Kopiere Zeile
 he["Gestorben"] <- dmy("17.07.1939")              # Korrigiere
-Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD) # Lösche alte Zeile
-Abg_AT_NR <- bind_rows(Abg_AT_NR, he)             # Füge korrigierte Zeile an
+Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD) # LÃ¶sche alte Zeile
+Abg_AT_NR <- bind_rows(Abg_AT_NR, he)             # FÃ¼ge korrigierte Zeile an
 rm(he)
 
-# Überschneidung KPÖ und LB in GP V. und VI. -> Lösche 'V.' & 'LB' sowie 'VI.' & 'KPÖ'
+# Ãœberschneidung KPÃ– und LB in GP V. und VI. -> LÃ¶sche 'V.' & 'LB' sowie 'VI.' & 'KPÃ–'
 Abg_AT_NR <-
   Abg_AT_NR %>%
   unnest() %>% 
   filter(!(GP == "V." & Klub == "LB")) %>% 
-  filter(!(GP == "VI." & Klub == "KPÖ")) %>% 
+  filter(!(GP == "VI." & Klub == "KPÃ–")) %>% 
   nest(GP:Klub, .key = "Mandat")
   
 # Keine Unterbrechung zwischen GP III. und IV. -> 01.11.1930 liegt im Bereich
@@ -60,7 +60,7 @@ Abg_AT_NR <-
 # A tibble: 6 x 9
 # PAD   Name                   Geschlecht Geboren    Gestorben  GP       von        bis        Klub 
 # <chr> <chr>                  <fct>      <date>     <date>     <chr>    <date>     <date>     <chr>
-# 1 00119 Franz Birbaumer        männl.     1871-10-04 1931-09-17 I.–IV.   1920-12-07 1931-09-17 CSP  
+# 1 00119 Franz Birbaumer        mÃ¤nnl.     1871-10-04 1931-09-17 I.â€“IV.   1920-12-07 1931-09-17 CSP  
 he <- Abg_AT_NR %>% filter(PAD == "00119")
 new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren = he$Geboren, Gestorben = he$Gestorben,
              Mandat = list(tibble(GP = c("I.-III.", "IV."),
@@ -70,7 +70,7 @@ new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren =
 Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD)
 Abg_AT_NR <- bind_rows(Abg_AT_NR, new)
 rm(he, new)
-# 2 00239 DDr. Karl Drexel       männl.     1872-07-21 1954-03-14 II.–IV.  1923-11-20 1931-10-16 CSP  
+# 2 00239 DDr. Karl Drexel       mÃ¤nnl.     1872-07-21 1954-03-14 II.â€“IV.  1923-11-20 1931-10-16 CSP  
 he <- Abg_AT_NR %>% filter(PAD == "00239")
 new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren = he$Geboren, Gestorben = he$Gestorben,
              Mandat = list(tibble(GP = c("II.-III.", "IV."),
@@ -80,7 +80,7 @@ new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren =
 Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD)
 Abg_AT_NR <- bind_rows(Abg_AT_NR, new)
 rm(he, new)
-# 3 00247 Matthias Duscher       männl.     1891-01-09 1967-12-14 III.–IV. 1927-05-18 1934-05-02 CSP  
+# 3 00247 Matthias Duscher       mÃ¤nnl.     1891-01-09 1967-12-14 III.â€“IV. 1927-05-18 1934-05-02 CSP  
 he <- Abg_AT_NR %>% filter(PAD == "00247")
 new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren = he$Geboren, Gestorben = he$Gestorben,
              Mandat = list(tibble(GP = c("III.", "IV."),
@@ -90,7 +90,7 @@ new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren =
 Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD)
 Abg_AT_NR <- bind_rows(Abg_AT_NR, new)
 rm(he, new)
-# 4 01957 Felix Kern             männl.     1892-05-21 1955-10-23 III.–IV. 1927-05-18 1931-09-30 CSP  
+# 4 01957 Felix Kern             mÃ¤nnl.     1892-05-21 1955-10-23 III.â€“IV. 1927-05-18 1931-09-30 CSP  
 he <- Abg_AT_NR %>% filter(PAD == "01957")
 new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren = he$Geboren, Gestorben = he$Gestorben,
              Mandat = list(tibble(GP = c("III.", "IV."),
@@ -100,7 +100,7 @@ new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren =
 Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD)
 Abg_AT_NR <- bind_rows(Abg_AT_NR, new)
 rm(he, new)
-# 5 01231 Franz Plasser          männl.     1893-09-10 1970-10-01 III.–IV. 1927-05-18 1934-02-17 SdP  
+# 5 01231 Franz Plasser          mÃ¤nnl.     1893-09-10 1970-10-01 III.â€“IV. 1927-05-18 1934-02-17 SdP  
 he <- Abg_AT_NR %>% filter(PAD == "01231")
 new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren = he$Geboren, Gestorben = he$Gestorben,
              Mandat = list(tibble(GP = c("III.", "IV."),
@@ -110,7 +110,7 @@ new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren =
 Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD)
 Abg_AT_NR <- bind_rows(Abg_AT_NR, new)
 rm(he, new)
-# 6 01480 Ing. DDDr. Julius Raab männl.     1891-11-29 1964-01-08 III.–IV. 1927-05-18 1934-05-02 CSP 
+# 6 01480 Ing. DDDr. Julius Raab mÃ¤nnl.     1891-11-29 1964-01-08 III.â€“IV. 1927-05-18 1934-05-02 CSP 
 he <- Abg_AT_NR %>% filter(PAD == "01480")
 new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren = he$Geboren, Gestorben = he$Gestorben,
              Mandat = list(tibble(GP = c("III.", "IV."),
@@ -121,7 +121,7 @@ Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD)
 Abg_AT_NR <- bind_rows(Abg_AT_NR, new)
 rm(he, new)
 
-# Funktion um konsolidierte Werte für ein Datum zu bekommen
+# Funktion um konsolidierte Werte fÃ¼r ein Datum zu bekommen
 kons <- function(d = lubridate::ymd("1977-3-21")){
   library(lubridate)
   Abg_AT_NR %>%
@@ -139,16 +139,19 @@ kons <- function(d = lubridate::ymd("1977-3-21")){
                             TRUE ~ Jung))
 }
 
-# Erzeuge tibble der Zusammenfassung über die GP I. bis 25.
+# Erzeuge single GP-Mandats ZeitrÃ¤ume
+source("Abg_AT_NR_single.r")
+
+# Erzeuge tibble der Zusammenfassung Ã¼ber die GP I. bis 25.
 Abg_AT_NR_kons <-
   tibble(Date = full_seq(c(ymd("1920-11-10"), ymd("2017-11-8")), 1)) %>% # Alle Tage zwischen ertser Tag I. GP und letzter TAg XXV. GP
   mutate(Date = floor_date(Date, unit = "month"), week_start = 1) %>%    # Monatserste dieser Serie
-  group_by(Date) %>% summarise() %>% tail(-1) %>%                        # Der 1.11.1920 liegt außerhalb der Serie
+  group_by(Date) %>% summarise() %>% tail(-1) %>%                        # Der 1.11.1920 liegt auÃŸerhalb der Serie
   bind_cols(., map_dfr(.$Date, kons))
 
 # Plot
 p <- Abg_AT_NR_kons %>%
-  rename(Durchschnittsalter = DAlter, 'Jüngste(r) Abg.' = Jung, 'Anzahl Abg.' = N, Frauenanteil = Weibl) %>% 
+  rename(Durchschnittsalter = DAlter, 'JÃ¼ngste(r) Abg.' = Jung, 'Anzahl Abg.' = N, Frauenanteil = Weibl) %>% 
   gather(-Date, key = "Was", value = "Wert") %>%
   ggplot(mapping = aes(x = Date, y = Wert)) +
   geom_vline(xintercept = GP$von, color = "grey75", linetype = "dashed") +
