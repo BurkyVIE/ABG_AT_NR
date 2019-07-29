@@ -19,4 +19,5 @@ Abg_AT_NR[1:4,] %>%
   mutate(New = map2(von, bis, ~ do_single(..1, ..2))) %>%
   unnest() %>% 
   select(PAD:Gestorben, GP = GP1, von = von1, bis = bis1, Klub) %>% 
+  filter(!(GP <= 14 & interval(von, bis) %>% time_length(unit = "day") == 0)) %>% # Ausschluss der ein Tages-Perioden auf Grund der überschneidenden Definitionenn der GP bis inkl. 14
   nest(GP:Klub)
