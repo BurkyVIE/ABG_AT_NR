@@ -3,7 +3,7 @@ library(tidyverse)
 library(lubridate)
 
 # Einlesen aller Abgeordneten
-base <- read_csv2("alle Abg 20190727.txt")
+base <- read_csv2("alle Abg 20190727.txt", locale =  locale(encoding = "WINDOWS-1252"))
 
 # Funktion zum scrapen laden
 source("scraping.r")
@@ -120,6 +120,11 @@ new = tibble(PAD = he$PAD, Name = he$Name, Geschlecht = he$Geschlecht, Geboren =
 Abg_AT_NR <- Abg_AT_NR %>% filter(PAD != he$PAD)
 Abg_AT_NR <- bind_rows(Abg_AT_NR, new)
 rm(he, new)
+
+# Name mit führendem Nachnamen hinzufügen
+Abg_AT_NR <-
+  left_join(Abg_AT_NR, base, by = "PAD", suffix = c("", "2")) %>% 
+  select(PAD, Name, Name2, Geschlecht:Mandat)
 
 # Funktion um konsolidierte Werte für ein Datum zu bekommen
 kons <- function(d = lubridate::ymd("1977-3-21")){
